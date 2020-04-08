@@ -3,6 +3,9 @@ NEW_2
 NEW_3
 NEW_4
 NEW_5
+NEW4_RAMA2 -->soft
+NEW5_RAMA2
+
 
 
 NEW_2_rama1
